@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T10:12:24 IST" name="Suite" finished-at="2023-11-08T10:14:02 IST" duration-ms="97249">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T10:12:24 IST" name="Test" finished-at="2023-11-08T10:14:02 IST" duration-ms="97249">
+      <class name="FacilGoLogin.TestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:12:24 IST" name="setup" finished-at="2023-11-08T10:12:38 IST" duration-ms="13978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase1()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:12:38 IST" name="testcase1" finished-at="2023-11-08T10:12:40 IST" duration-ms="1211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase2()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:12:40 IST" name="testcase2" finished-at="2023-11-08T10:12:46 IST" duration-ms="5892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method signature="testcase3()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:12:46 IST" name="testcase3" finished-at="2023-11-08T10:12:51 IST" duration-ms="5686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method signature="testcase4()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:12:51 IST" name="testcase4" finished-at="2023-11-08T10:12:56 IST" duration-ms="4939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method signature="testcase5()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:12:56 IST" name="testcase5" finished-at="2023-11-08T10:13:01 IST" duration-ms="5026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method signature="testcase8()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:01 IST" name="testcase8" finished-at="2023-11-08T10:13:12 IST" duration-ms="10811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase8 -->
+        <test-method signature="testcase10()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:12 IST" name="testcase10" finished-at="2023-11-08T10:13:14 IST" duration-ms="1584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase10 -->
+        <test-method signature="testcase14()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:14 IST" name="testcase14" finished-at="2023-11-08T10:13:14 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase14 -->
+        <test-method signature="testcase15()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:14 IST" name="testcase15" finished-at="2023-11-08T10:13:14 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase15 -->
+        <test-method signature="testcase16()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:14 IST" name="testcase16" finished-at="2023-11-08T10:13:31 IST" duration-ms="16913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase16 -->
+        <test-method signature="testcase18()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:31 IST" name="testcase18" finished-at="2023-11-08T10:13:43 IST" duration-ms="11999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase18 -->
+        <test-method signature="testcase19()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:43 IST" name="testcase19" finished-at="2023-11-08T10:13:45 IST" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase19 -->
+        <test-method signature="testcase20()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:45 IST" name="testcase20" finished-at="2023-11-08T10:13:46 IST" duration-ms="1569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase20 -->
+        <test-method signature="testcase21()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:46 IST" name="testcase21" finished-at="2023-11-08T10:13:47 IST" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase21 -->
+        <test-method signature="testcase22()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:47 IST" name="testcase22" finished-at="2023-11-08T10:13:49 IST" duration-ms="1257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase22 -->
+        <test-method signature="testcase23()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:49 IST" name="testcase23" finished-at="2023-11-08T10:13:54 IST" duration-ms="4989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase23 -->
+        <test-method signature="testcase24()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:54 IST" name="testcase24" finished-at="2023-11-08T10:13:56 IST" duration-ms="2605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase24 -->
+        <test-method signature="testcase25()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:13:56 IST" name="testcase25" finished-at="2023-11-08T10:14:01 IST" duration-ms="5085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase25 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:FacilGoLogin.TestCases@1fe20588]" started-at="2023-11-08T10:14:01 IST" name="close" finished-at="2023-11-08T10:14:02 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- FacilGoLogin.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
